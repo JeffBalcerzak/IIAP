@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_purpose_of_stock_investment" table="x_627947_iiap_iiap_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_purpose_of_stock_investment</element>
+            <name>x_627947_iiap_iiap_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-10 21:38:38</sys_created_on>
+            <sys_id>3c917ac11be23010856ec841604bcbed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_purpose_of_stock_investment</sys_name>
+            <sys_package display_value="IIAP" source="x_627947_iiap">a43f2e411be23010856ec841604bcbc9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IIAP">a43f2e411be23010856ec841604bcbc9</sys_scope>
+            <sys_update_name>sys_choice_x_627947_iiap_iiap_request_u_purpose_of_stock_investment</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-10 21:38:38</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

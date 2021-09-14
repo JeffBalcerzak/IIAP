@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_psi_other</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-14 16:10:46</sys_created_on>
+        <sys_id>29dcce961b223010856ec841604bcbef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_psi_other</sys_name>
+        <sys_package display_value="IIAP" source="x_627947_iiap">a43f2e411be23010856ec841604bcbc9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IIAP">a43f2e411be23010856ec841604bcbc9</sys_scope>
+        <sys_update_name>sys_ui_policy_action_29dcce961b223010856ec841604bcbef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-14 16:10:46</sys_updated_on>
+        <table>x_627947_iiap_iiap_request</table>
+        <ui_policy display_value="Show or hide Other field for Purpose of stock investment">054336811be23010856ec841604bcbbe</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IIAP">a43f2e411be23010856ec841604bcbc9</application>
+        <file_path/>
+        <instance_id>b6c1f4b6db1fa450a667cac505961908</instance_id>
+        <instance_name>dev110859</instance_name>
+        <name>sys_ui_policy_action_29dcce961b223010856ec841604bcbef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>u_psi_other</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-14 16:10:46</sys_created_on><sys_id>29dcce961b223010856ec841604bcbef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_psi_other</sys_name><sys_package display_value="IIAP" source="x_627947_iiap">a43f2e411be23010856ec841604bcbc9</sys_package><sys_policy/><sys_scope display_value="IIAP">a43f2e411be23010856ec841604bcbc9</sys_scope><sys_update_name>sys_ui_policy_action_29dcce961b223010856ec841604bcbef</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-14 16:10:46</sys_updated_on><table>x_627947_iiap_iiap_request</table><ui_policy display_value="Show or hide Other field for Purpose of stock investment">054336811be23010856ec841604bcbbe</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1516466195</payload_hash>
+        <record_name>u_psi_other</record_name>
+        <reverted_from/>
+        <source>e43f2e411be23010856ec841604bcbcb</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-14 16:10:46</sys_created_on>
+        <sys_id>30ec4e961b223010856ec841604bcbe0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17be51333c40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-14 16:10:46</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>78ec4e96ef22301056cd5faa90ea08df</update_guid>
+        <update_guid_history>78ec4e96ef22301056cd5faa90ea08df:-1516466195</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-14 20:23:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>23fa747960fb4ca294f79720844e0924</sys_id>
+        <sys_metadata>29dcce961b223010856ec841604bcbef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_psi_other</sys_name>
+        <sys_package display_value="IIAP" source="x_627947_iiap">a43f2e411be23010856ec841604bcbc9</sys_package>
+        <sys_parent display_value="">054336811be23010856ec841604bcbbe</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IIAP">a43f2e411be23010856ec841604bcbc9</sys_scope>
+        <sys_scope_delete display_value="">6ffc6685289c47c598060b3f13f60629</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_29dcce961b223010856ec841604bcbef</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_29dcce961b223010856ec841604bcbef">30ec4e961b223010856ec841604bcbe0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-14 20:23:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

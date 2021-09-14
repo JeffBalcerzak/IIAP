@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="IIAP Items">195ec21a1b223010856ec841604bcb98</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>IIAP Items</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_627947_iiap_iiap_items</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_627947_iiap.iiap_items_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-14 16:17:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dd5ec21a1b223010856ec841604bcb9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IIAP Items</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IIAP" source="x_627947_iiap">a43f2e411be23010856ec841604bcbc9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IIAP">a43f2e411be23010856ec841604bcbc9</sys_scope>
+        <sys_update_name>sys_app_module_dd5ec21a1b223010856ec841604bcb9b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-14 16:17:04</sys_updated_on>
+        <timeline_page/>
+        <title>IIAP Items</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IIAP">a43f2e411be23010856ec841604bcbc9</application>
+        <file_path/>
+        <instance_id>b6c1f4b6db1fa450a667cac505961908</instance_id>
+        <instance_name>dev110859</instance_name>
+        <name>sys_app_module_dd5ec21a1b223010856ec841604bcb9b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="IIAP Items">195ec21a1b223010856ec841604bcb98</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>IIAP Items</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_627947_iiap_iiap_items</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_627947_iiap.iiap_items_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-14 16:17:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>dd5ec21a1b223010856ec841604bcb9b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IIAP Items</sys_name><sys_overrides/><sys_package display_value="IIAP" source="x_627947_iiap">a43f2e411be23010856ec841604bcbc9</sys_package><sys_policy/><sys_scope display_value="IIAP">a43f2e411be23010856ec841604bcbc9</sys_scope><sys_update_name>sys_app_module_dd5ec21a1b223010856ec841604bcb9b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-14 16:17:04</sys_updated_on><timeline_page/><title>IIAP Items</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>229348109</payload_hash>
+        <record_name>IIAP Items</record_name>
+        <reverted_from/>
+        <source>e43f2e411be23010856ec841604bcbcb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-14 16:17:04</sys_created_on>
+        <sys_id>515ec21a1b223010856ec841604bcb9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17be518fbbb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-14 16:17:04</sys_updated_on>
+        <type>Module</type>
+        <update_guid>995ec21a82223010420b7b50b962619e</update_guid>
+        <update_guid_history>995ec21a82223010420b7b50b962619e:229348109</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="IIAP Items">8ea55a9e1b223010856ec841604bcbab</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-14 16:49:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>00f474aa491b4340800f74346dea1440</sys_id>
+        <sys_metadata>dd5ec21a1b223010856ec841604bcb9b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IIAP Items</sys_name>
+        <sys_package display_value="IIAP" source="x_627947_iiap">a43f2e411be23010856ec841604bcbc9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IIAP">a43f2e411be23010856ec841604bcbc9</sys_scope>
+        <sys_scope_delete display_value="">6ffc6685289c47c598060b3f13f60629</sys_scope_delete>
+        <sys_update_name>sys_app_module_dd5ec21a1b223010856ec841604bcb9b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_dd5ec21a1b223010856ec841604bcb9b">515ec21a1b223010856ec841604bcb9f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-14 16:49:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
