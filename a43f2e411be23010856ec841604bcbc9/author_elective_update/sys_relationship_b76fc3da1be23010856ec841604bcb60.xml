@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="DELETE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_627947_iiap_iiap_request</basic_apply_to>
+        <basic_query_from>x_627947_iiap_iiap_item</basic_query_from>
+        <insert_callback/>
+        <name>Request Item</name>
+        <query_from/>
+        <query_with><![CDATA[current.addQuery('reqno', parent.sys_id);]]></query_with>
+        <reference_field>reqno</reference_field>
+        <related_list/>
+        <simple_reference>true</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-14 21:02:11</sys_created_on>
+        <sys_id>b76fc3da1be23010856ec841604bcb60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Item</sys_name>
+        <sys_package display_value="IIAP" source="x_627947_iiap">a43f2e411be23010856ec841604bcbc9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IIAP">a43f2e411be23010856ec841604bcbc9</sys_scope>
+        <sys_update_name>sys_relationship_b76fc3da1be23010856ec841604bcb60</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-14 21:02:11</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="DELETE" query="documentkey=b76fc3da1be23010856ec841604bcb60"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IIAP">a43f2e411be23010856ec841604bcbc9</application>
+        <file_path/>
+        <instance_id>b6c1f4b6db1fa450a667cac505961908</instance_id>
+        <instance_name>dev110859</instance_name>
+        <name>sys_relationship_b76fc3da1be23010856ec841604bcb60</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_relationship"&gt;&lt;sys_relationship action="INSERT_OR_UPDATE"&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;apply_to/&gt;&lt;basic_apply_to&gt;x_627947_iiap_iiap_request&lt;/basic_apply_to&gt;&lt;basic_query_from&gt;x_627947_iiap_iiap_item&lt;/basic_query_from&gt;&lt;insert_callback/&gt;&lt;name&gt;Request Item&lt;/name&gt;&lt;query_from/&gt;&lt;query_with&gt;&lt;![CDATA[current.addQuery('reqno', parent.sys_id);]]&gt;&lt;/query_with&gt;&lt;reference_field&gt;reqno&lt;/reference_field&gt;&lt;related_list/&gt;&lt;simple_reference&gt;true&lt;/simple_reference&gt;&lt;sys_class_name&gt;sys_relationship&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-09-14 21:02:11&lt;/sys_created_on&gt;&lt;sys_id&gt;b76fc3da1be23010856ec841604bcb60&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Request Item&lt;/sys_name&gt;&lt;sys_package display_value="IIAP" source="x_627947_iiap"&gt;a43f2e411be23010856ec841604bcbc9&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="IIAP"&gt;a43f2e411be23010856ec841604bcbc9&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_relationship_b76fc3da1be23010856ec841604bcb60&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-09-14 21:02:11&lt;/sys_updated_on&gt;&lt;/sys_relationship&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=b76fc3da1be23010856ec841604bcb60"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-329209874</payload_hash>
+        <record_name>Request Item</record_name>
+        <reverted_from/>
+        <source>e6274fd21be23010856ec841604bcbec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-14 21:02:11</sys_created_on>
+        <sys_id>a59f47da1be23010856ec841604bcb26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17be61e01720000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-14 21:02:11</sys_updated_on>
+        <type>Relationship</type>
+        <update_guid>ed9f47da18e2301027368fb2f598c025</update_guid>
+        <update_guid_history>ed9f47da18e2301027368fb2f598c025:-329209874</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-14 21:03:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_relationship">sys_relationship</sys_db_object>
+        <sys_id>50eab81b882440c0b79f9a79993a1710</sys_id>
+        <sys_metadata>b76fc3da1be23010856ec841604bcb60</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Item</sys_name>
+        <sys_package display_value="IIAP" source="x_627947_iiap">a43f2e411be23010856ec841604bcbc9</sys_package>
+        <sys_parent display_value="IIAP Request">f2478bd21be23010856ec841604bcbb0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IIAP">a43f2e411be23010856ec841604bcbc9</sys_scope>
+        <sys_scope_delete display_value="">6ffc6685289c47c598060b3f13f60629</sys_scope_delete>
+        <sys_update_name>sys_relationship_b76fc3da1be23010856ec841604bcb60</sys_update_name>
+        <sys_update_version display_value="sys_relationship_b76fc3da1be23010856ec841604bcb60">a59f47da1be23010856ec841604bcb26</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-14 21:03:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

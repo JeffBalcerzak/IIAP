@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="IIAP Item" max_length="40" name="x_627947_iiap_iiap_item" type="collection">
+        <element label="Num of Inventory Months" max_length="40" name="num_of_inventory_months" type="integer"/>
+        <element label="Pack Code" mandatory="true" max_length="10" name="pack_code" type="string"/>
+        <element label="Product Designation" mandatory="true" max_length="50" name="product_designation" type="string"/>
+        <element label="ReqNo" max_length="32" name="reqno" read_only="true" reference="x_627947_iiap_iiap_request" reference_qual="numberSTARTSWITH^EQ" reference_qual_condition="numberSTARTSWITH^EQ" type="reference"/>
+        <element label="SPL" mandatory="true" max_length="20" name="spl" type="decimal"/>
+        <element label="Yearly Quantity" max_length="40" name="yearly_quantity" type="integer"/>
+        <index name="index">
+            <element name="reqno"/>
+        </index>
+    </element>
+</database>
