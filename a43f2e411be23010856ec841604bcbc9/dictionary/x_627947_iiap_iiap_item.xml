@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="IIAP Item" max_length="40" name="x_627947_iiap_iiap_item" type="collection">
+    <element label="IIAP Item" max_length="40" name="x_627947_iiap_iiap_item" sizeclass="2" type="collection">
         <element label="Num of Inventory Months" max_length="40" name="num_of_inventory_months" type="integer"/>
         <element label="Pack Code" mandatory="true" max_length="10" name="pack_code" type="string"/>
         <element label="Product Designation" mandatory="true" max_length="50" name="product_designation" type="string"/>

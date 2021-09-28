@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="IIAP Request" max_length="40" name="x_627947_iiap_iiap_request" type="collection">
+    <element label="IIAP Request" max_length="40" name="x_627947_iiap_iiap_request" sizeclass="1" type="collection">
+        <element label="Approval History" max_length="4000" name="approval_history" type="journal"/>
+        <element label="Approved By" max_length="50" name="approved_by" type="string"/>
         <element choice="1" label="Exit Strategy" mandatory="true" max_length="40" name="exit_strategy" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Customer will buy full stock" value="Customer will buy full stock"/>
@@ -30,6 +32,7 @@
             <choice>
                 <element inactive_on_update="false" label="Active" value="Active"/>
                 <element inactive_on_update="false" label="New" value="New"/>
+                <element inactive_on_update="false" label="Rejected" value="Rejected"/>
             </choice>
         </element>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="New List" max_length="1024" name="u_glide_list_1" reference="x_627947_iiap_iiap_item" type="glide_list"/>
